@@ -1,0 +1,1 @@
+We plan to create a basic chatroom with a single server acting as a middleman. The server will not store any chat data. The chat will be open to everyone. Our aim is to have the minimum requirements for the server.
